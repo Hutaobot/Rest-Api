@@ -879,7 +879,7 @@ router.get('/search/ytplay', async (req, res, next) => {
 	var text1 = req.query.text
 	if (!text1 ) return res.json({ status : false, creator : `${creator}`, message : "[!] masukan parameter text"}) 
 
-	let yts = require("yt-search")
+	let yts = require("kyysearch")
 	let search = await yts(text1)
 	let anu = search.videos[Math.floor(Math.random() * search.videos.length)]
 
