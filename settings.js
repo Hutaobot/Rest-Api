@@ -17,7 +17,7 @@
 //_______________________ ┏  Setting  ┓ _______________________\\
 
 // Name Creator
-creator = 'Asrori Amin'
+creator = 'A7 RAFLI'
 
 //_______________________ ┏  Apikey  ┓ _______________________\\
 
@@ -63,13 +63,13 @@ loghandler = {
     redy: {
     	status: false,
     	code: 403,
-    	message: '[!] Forbiden or Error, Alias ​​already in use',
+    	message: 'Kesalahan, Alias sudah digunakan',
     	maintanied_by: `${creator}`
     },
     emoji: {
 	status: false,
 	code: 403,
-	message: '[!] Forbiden or Error, Emoji not Found',
+	message: '[!] Kesalahan, Emoji tidak ditemukan',
 	maintanied_by: `${creator}`
 }
 
