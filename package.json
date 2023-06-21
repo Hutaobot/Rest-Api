@@ -50,7 +50,7 @@
     "is-number": "^7.0.0",
     "is-url": "^1.2.4",
     "jsdom": "^19.0.0",
-    "kyysearch": "github:diki6969/kyysearch"
+    "kyysearch": "github:diki6969/kyysearch",
     "limit-text-js": "^1.0.2",
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.1",
